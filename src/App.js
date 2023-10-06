@@ -16,6 +16,7 @@ function App() {
 
   const calculate=()=>{
     setresult(eval(result).toString())
+    console.log(result)
   }
 
 
